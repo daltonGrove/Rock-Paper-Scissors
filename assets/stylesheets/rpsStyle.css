@@ -19,8 +19,15 @@ body{
 	padding: 25px;
 }
 
+#theRules{
+	font-size: 30px;
+	font-family: arial;
+	color: #691DAC;
+}
+
 button {
 	margin: 25px;
 	padding: 10px;
+	font-family: arial;
 }
 
