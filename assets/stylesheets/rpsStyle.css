@@ -14,7 +14,7 @@ body{
 	color: orange;
 	width: auto;
 	text-align: center;
-	margin-bottom: 150px;
+	margin-bottom: 75px;
 	margin-top: 25px;
 	padding: 25px;
 }
@@ -31,3 +31,59 @@ button {
 	font-family: arial;
 }
 
+
+.container .choices .pick{
+	float: left;
+  width:  200px;
+  height: 200px;
+  object-fit: cover;
+  border-style: solid;
+  border-radius: 25%;
+  margin: 25px;
+  padding: 0px;
+}
+
+#showTheRules{
+	font-size: 20px;
+	color: white;
+}
+
+#trigger{
+	font-weight: bold;
+	color: white;
+}
+
+#results{
+	font-weight: bold;
+	color: white;
+}
+
+#score{
+	font-weight: bold;
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+NOT SURE IF I NEED THIS
+
+
+.container .choices .pick {
+	border-style: solid;
+	border-radius: 15%;
+	box-sizing: border-box;
+	display: flex;
+	*/
+
+
+		
